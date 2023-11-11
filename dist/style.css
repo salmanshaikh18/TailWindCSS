@@ -745,6 +745,10 @@ video {
   width: 20rem;
 }
 
+.w-\[50\%\] {
+  width: 50%;
+}
+
 .max-w-md {
   max-width: 28rem;
 }
@@ -834,6 +838,10 @@ video {
 
 .gap-8 {
   gap: 2rem;
+}
+
+.gap-5 {
+  gap: 1.25rem;
 }
 
 .space-y-2 > :not([hidden]) ~ :not([hidden]) {
@@ -1429,6 +1437,10 @@ video {
 
   .sm\:w-\[55vw\] {
     width: 55vw;
+  }
+
+  .sm\:w-\[50\%\] {
+    width: 50%;
   }
 
   .sm\:bg-blue-500 {
